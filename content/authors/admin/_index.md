@@ -65,6 +65,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shutong Qi is a PhD student at the University of Illinois Urbana-Champaign ECE department starting from 2020 fall (or 2021 spring, depending on the situation). His research interests include electromagnetics, multiphysics simulation, human-computer interaction. He is under the supervision of Professor Zhen Peng, whose research focuses on theoretical, computational, and applied electromagnetics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
