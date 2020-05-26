@@ -65,5 +65,5 @@ user_groups:
 - Visitors
 ---
 
-Shutong Qi is a PhD student at the University of Illinois Urbana-Champaign ECE department starting from 2020 fall (or 2021 spring, depending on the situation). His research interests include electromagnetics, multiphysics simulation, human-computer interaction. He is under the supervision of Professor Zhen Peng, whose research focuses on theoretical, computational, and applied electromagnetics.
+Shutong Qi is a PhD student at the University of Illinois Urbana-Champaign ECE department starting from 2020 fall (or 2021 spring, depending on the situation). He is under the supervision of Professor Zhen Peng, whose research focuses on theoretical, computational, and applied electromagnetics. His research interests include electromagnetics, multiphysics simulation, human-computer interaction. 
 
