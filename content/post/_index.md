@@ -12,4 +12,4 @@ header:
   caption: ""
   image: ""
 ---
-I am working in the Baidu marketing center as an summer intern since June, 2020. 
+I am working in the Baidu marketing center as a summer intern since June, 2020. 
